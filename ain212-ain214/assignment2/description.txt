@@ -1,0 +1,10 @@
+Country (region): Name of the country.
+Ladder: Cantril Ladder is a measure of life satisfaction.
+SD of Ladder: Standard deviation of the ladder.
+Positive affect: Measure of positive emotion.
+Negative affect: Measure of negative emotion.
+Social support: The extent to which Social support contributed to the calculation of the Happiness Score.
+Freedom: The extent to which Freedom contributed to the calculation of the Happiness Score.
+Corruption: The extent to which Perception of Corruption contributes to Happiness Score.
+Generosity: The extent to which Generosity contributed to the calculation of the Happiness Score.
+Log of GDPper capita: The extent to which GDP contributes to the calculation of the Happiness Score.
